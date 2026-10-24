@@ -1,4 +1,4 @@
-import cartReducer from "../reducer";
+import React from "react";
 
 function ProductList({ products, dispatch }) {
   return (
