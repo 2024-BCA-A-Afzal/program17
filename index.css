@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  background-color: #f5f7fa;
+  color: #222;
+  font-family: Arial, sans-serif;
+}
+
+button {
+  padding: 8px 14px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button:hover {
+  opacity: 0.85;
+}
